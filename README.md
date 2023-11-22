@@ -1,1 +1,1 @@
-Exemplo de Criar, Manipular e Excluir cookies no PHP
+Exemplo para Criação, Manipulação e Exclusão cookies no PHP
